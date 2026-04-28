@@ -1,4 +1,18 @@
 - layout: left
+  company: Beyond Finance
+  link: https://www.beyondfinance.com
+  job_title: Salesforce Engineering Manager
+  dates: October 2023 - Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    <ul><li>Manage a team of four salesforce.com developers in running the development team for all of Beyond Finance's Customer Service application.</li> 
+
+    <li>Automated and enabled many business processes and complex workflows onto the Salesforce platform resulting in significant efficicency gains and cost savings.</li>
+
+    <li>Vastly improved CI/CD processes and development cycles to better bridge technical implementation with strategic business goals, ensuring high-quality, scalable solutions.</li></ul>
+
+- layout: left
   company: Groupon
   link: groupon.com
   job_title: Engineering Manager
@@ -7,7 +21,7 @@
    <font size="+1">Managing and contributing to enterprise-level projects and microservices including, but not limited to:</font>
   description: | # this will include new lines to allow paragraphs
 
-    <ul><li>Manage a team of software engineers and lead the creation, development, maintenance, and integration of a brand new service responsible for creating, storing, and communicating merchant contractual terms for each voucher purchase made on the platform.</li>
+    <ul><li>Managed a team of software engineers and lead the creation, development, maintenance, and integration of a brand new service responsible for creating, storing, and communicating merchant contractual terms for each voucher purchase made on the platform.</li>
 
     <li>Development and maintenance of Groupon's card-linked-offer and voucher distribution/partner platform.</li>
 
@@ -48,17 +62,3 @@
     <li>Developed numerous applications that automated previously manual sales processes.</li>
 
     <li>Mentored and supported the knowledge and learning of colleagues aspiring to a career in application development.
-
-- layout: left
-  company: Worldcom (McLean, VA)
-  link:
-  job_title: Implementation team coordinator/manager, Government Markets Service Deployment
-  dates: August 1999 - April 2003
-  quote: >
-   
-  description: | # this will include new lines to allow paragraphs
-    <ul><li>Led a team of eight implementation coordinators in successful transition of United States Department of Defense's entire network of Dedicated Transmission Services from existing AT&T FTS2000 network to newly provisioned WorldCom FTS2001 network.</li> 
-
-    <li>Re-wrote procedures to significantly reduce lead time for the transition of services; the improved system was subsequently implemented across the entire Government Markets organization.</li>
-
-    <li>Hired, trained, and supervised all team members.</li></ul>
